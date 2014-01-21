@@ -1,10 +1,10 @@
-Google Analytics
-================
+Google Analytics Sample App
+===========================
 
 
 
 요구사항
-------
+--------
 
 - Android SDK
 - GA SDK for Android v3 (beta)
@@ -15,7 +15,7 @@ Google Analytics
 
 
 0. 적용 과정
-----------
+------------
 
 1. `AndroidManifest.xml` 수정
 2. `analytics.xml` 추가
