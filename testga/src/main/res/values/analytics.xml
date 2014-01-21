@@ -9,4 +9,7 @@
 
     <!--Enable automatic exception tracking-->
     <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- The screen names that will appear in reports -->
+    <string name="io.github.importre.android.testga.MainActivity">Home Screen</string>
 </resources>
